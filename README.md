@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco Favero
 - 👀 I’m interested in mail and LDAP protocols and solutions.
-- 🌱 I’m currently learning everithing related to this world.
+- 🌱 I’m currently learning everything related to this world.
 - 💞️ I’m looking to collaborate on mail solutions.
 - 📫 m. faverof @ gmail.com
 
