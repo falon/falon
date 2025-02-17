@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Marco Favero
-- 👀 I’m interested in mail and LDAP protocols and solutions.
-- 🌱 I’m currently learning everything related to this world.
+- 👀 Formerly I worked in mail and LDAP protocols and solutions.
+  Now I'm interested in IaC and automation (in particular Ansible).
+- 🌱 I’m currently learning everything related automation.
 - 💞️ I’m enthusiast to collaborate on mail solutions.
 - 📫 m. faverof @ gmail.com
 
