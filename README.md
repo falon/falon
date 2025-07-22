@@ -2,7 +2,7 @@
 - 👀 Formerly I worked in mail and LDAP protocols and solutions.
   Now I'm interested in IaC and automation (in particular Ansible).
 - 🌱 I’m currently learning everything related automation.
-- 💞️ I’m enthusiast to collaborate on mail solutions.
+- 💞️ I write Ansible playbooks, sometime Python code
 - 📫 m. faverof @ gmail.com
 
 <!---
